@@ -1,0 +1,39 @@
+.swiper-button-prev {
+  margin-left: 7.5%;
+}
+
+.swiper-button-next {
+  position: relative;
+  margin-right: 7.5%;
+}
+
+.pagination {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:0.6rem;
+    border-radius: 1rem;
+}
+
+.page-item{}
+
+.pagination a {
+    border-radius: 10px;
+    height: 42px;
+    background: #FFFFFF;
+    border: 1px solid #726BEA;
+  color: #726BEA;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.page-item a.active {
+  background-color: red;
+  color: white;
+}
+
+.page-item a:hover:not(.active) {
+  background-color: #726BEA;
+  color: #FFFFFF;
+}
