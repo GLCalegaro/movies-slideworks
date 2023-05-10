@@ -2,7 +2,8 @@
 
 Esta é uma aplicação construida para exibição de filmes que utiliza o consumo de API, Nextjs e ChakraUI, totalmente <em>responsiva.</em>
 
-![image](https://github.com/GLCalegaro/Modern-Village/assets/111308068/5b000f61-5c98-45a6-91ed-c11ecc7235aa)
+<p align="center">
+<img src="https://github.com/GLCalegaro/testedev-slideworks/assets/111308068/a79b3bc1-bf7e-4d28-b14e-2b0c2715b0bc"/></p>
 
 🔗<em>Link do deploy: [Acessar](https://testedev-slideworks-git-main-glcalegaro.vercel.app/).</em>
 
