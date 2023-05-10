@@ -1,38 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Sobre:
 
-## Getting Started
+Esta é uma aplicação construida para exibição de filmes que utiliza o consumo de API, Nextjs e ChakraUI, totalmente <em>responsiva.</em>
 
-First, run the development server:
+![image](https://github.com/GLCalegaro/Modern-Village/assets/111308068/5b000f61-5c98-45a6-91ed-c11ecc7235aa)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+🔗<em>Link do deploy: [Acessar](https://testedev-slideworks-git-main-glcalegaro.vercel.app/).</em>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🗒️Descrição:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+O site possui algumas das seguintes funcionalidades:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+   🏠 Home:
+   
+    - São exibidos alguns filmes em destaque através do carrosel (Swiper);
+    
+   🎞️ Filmes:
+   
+    - É possível clicar e navegar entre as paginas onde serão exibidas as informações dos filmes como: título, ano, elenco e etc;
+<p align="center">
+<img src="https://github.com/GLCalegaro/Modern-Village/assets/111308068/ddbde17b-a842-4f9c-85f0-bf09472e6ac1"/></p>       
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 📚 Bibliotecas e ferramentas utilizadas:
+- NextJS: aprimorar e adicionar funcionalidades ao React;
+- React Icons: biblioteca de icones personalizados;
+- Axios: para requisição de API;
+- Npm: Gerenciador de pacotes de dependências;
+- ChakraUi: Biblioteca para criação de componentes simples e interfaces intuitivas e responsivas;
+- Swiper/React: Framework utilizado para apresentação de carrossel de imagens de forma personalizada;
+- Bootstrap;
+- React-Paginate: Para paginação;
+  
+## 🌐 Tecnologias:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img 
+src="https://user-images.githubusercontent.com/111308068/231340958-3e75b623-c6e9-4c86-9157-75c6413e5fc5.png" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>                                                                                                                    
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## ⚙️ Instruções de instalação do projeto:
+- npm install: Instala todas dependências listadas no package.json em sua pasta local;
+- npm run dev: Inicia a aplicação;
